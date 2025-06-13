@@ -1,0 +1,9 @@
+streamlit
+radon
+gitpython
+networkx
+matplotlib
+pydot
+graphviz  
+pyvis
+tree_select
